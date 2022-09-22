@@ -51,3 +51,6 @@ o percentual de cozimento (O percentual é definido pelo tempo total dividido po
 segundos). Quando um prato fica pronto, é necessário comunicar em console o final e
 fazer a entrega, que leva 0,5 segundos. O jogador só pode entregar um prato por vez e
 deve comunicar a entrega. Simular a situação em Java.
+
+
+Video suporte: https://web.microsoftstream.com/video/26aae9de-3dd7-40a6-9d43-f4da5c3551e6 (Deve logar com a conta Fatec)
